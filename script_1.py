@@ -3,6 +3,8 @@ from setup.tools import reduce
 
 from setup.tools import reduce
 
+from setup.tools import reduce
+
 lista = []
 
 # Modificaciones ingestas
